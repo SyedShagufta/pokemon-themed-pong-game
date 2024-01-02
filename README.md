@@ -32,7 +32,8 @@ This game utilizes the Turtle graphics library, which is included in the standar
 
 ## Demonstration 🤺💻
 
-![Pong Game Screenshot](screenshots/pong_game_screenshot.png)
+![Dark Modern Photo Mountain And Sky Desktop Wallpaper](https://github.com/SyedShagufta/pokemon-themed-pong-game/assets/62433926/7bbd2638-97d9-416c-a5c8-cae8f140264f)
+
 
 ## Customization 🦄
 
